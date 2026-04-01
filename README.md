@@ -1,1 +1,3 @@
 ﻿I began coding in 2011 when I built an HTML and CSS site to change careers from waiting tables. I learned more about PHP and JavaScript in 2012. I got involved with WordPress in 2012. I started learning PHP in 2013 when I wanted to make changes to my WordPress sites. Since then, it has been a whirlwind of never-ending changes and adaptations to the world of tech. My latest studies have been JavaScript and becoming a full-stack developer while taking care of current client needs. Stay tuned for more as I build new sites and explore new techonologies.
+
+ UPDATE: With the advent of AI, I am no longer a for-hire web developer. I am working on building my own SaaS products and marketing them. 
